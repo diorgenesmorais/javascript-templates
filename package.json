@@ -1,0 +1,22 @@
+{
+  "name": "javascript-templates",
+  "version": "1.0.0",
+  "description": "> Modelos de códigos (exemplos) em javascript",
+  "main": "generators-for-asynchronous-flows.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diorgenesmorais/javascript-templates.git"
+  },
+  "author": "Diorgenes Morais <diorgenesmorais@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diorgenesmorais/javascript-templates/issues"
+  },
+  "homepage": "https://github.com/diorgenesmorais/javascript-templates#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
